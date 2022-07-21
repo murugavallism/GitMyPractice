@@ -10,7 +10,7 @@ public static void main(String[] args) {
 
 }
 private void practice1() {
-	System.out.println(1);
+	System.out.println("one");
 
 }
 }
