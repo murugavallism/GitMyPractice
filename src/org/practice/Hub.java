@@ -8,4 +8,8 @@ public static void main(String[] args) {
 
 
 }
+private void prac2() {
+	System.out.println("prac2");
+
+}
 }
